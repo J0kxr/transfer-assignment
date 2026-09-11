@@ -1,3 +1,4 @@
 # The Magical Repository
 A small, cluttered office, a young developer named Alex stared at their screen in frustration. The project was due in hours, but the code was a mess—changes were scattered, and nothing seemed to work. Desperate, Alex whispered, "I wish there was a way to save my progress without losing everything."
 Suddenly, a glowing terminal appeared on the screen, displaying the words: `git init`. Alex, confused but curious, typed the command. The room shimmered, and the project folder transformed into a neat, organized repository. A voice echoed: "Save often, and you shall never lose your way."
+Alex grinned and started typing furiously. `git add .` staged all the changes, and `git commit -m "Fixed the chaos"` saved the first snapshot. The voice chuckled: "Now, even mistakes can be undone." Alex felt a surge of confidence and continued coding, knowing that every step was safe.
